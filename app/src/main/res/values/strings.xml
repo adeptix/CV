@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Unit Converter</string>
+
+    <string name="poka">(for now...)</string>
+    <string name="problem">Report a problem</string>
+    <string name="studio">R A D Studio</string>
+
+    <string name="menu_set">Settings</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_mark">Rate App</string>
+
+    <string name="pref_name1">Number of decimal places</string>
+    <string name="pref_name2">Decimal separator</string>
+
+
+    <string-array name="title">
+        <item>Length</item>
+        <item>Area</item>
+        <item>Volume</item>
+        <item>Speed</item>
+        <item>Weight</item>
+        <item>Energy</item>
+        <item>Time</item>
+        <item>Data</item>
+        <item>Temperature</item>
+    </string-array>
+
+</resources>

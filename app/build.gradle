@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.convert.cv"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 7
+        versionName "2.0"
+        resConfigs "en", "ru"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+    dependencies {
+        implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+
+        //support
+        implementation 'com.android.support:recyclerview-v7:26.1.0'
+        implementation 'com.android.support:appcompat-v7:26.1.0'
+        implementation 'com.android.support:preference-v7:26.1.0'
+        implementation 'com.android.support:design:26.1.0'
+
+        //ads
+        implementation 'com.google.firebase:firebase-core:16.0.0'
+        implementation 'com.google.firebase:firebase-ads:15.0.1'
+        implementation 'com.google.android.gms:play-services-ads:15.0.1'
+
+
+
+    }
+
+
+}
+
+
+apply plugin: 'com.google.gms.google-services'
+
+

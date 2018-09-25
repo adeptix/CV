@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="length">
+      <item>Метрические</item>
+       <item>Нанометр</item>
+       <item>Миллиметр</item>
+       <item>Сантиметр</item>
+       <item>Дециметр</item>
+       <item>Метр</item>
+       <item>Километр</item>
+
+      <item>Астрономические</item>
+       <item>Aстрономическая единица</item>
+       <item>Световой год</item>
+       <item>Парсек</item>
+
+      <item>Британские / американские</item>
+       <item>Дюйм</item>
+       <item>Хенд</item>
+       <item>Линк</item>
+       <item>Фут</item>
+       <item>Ярд</item>
+       <item>Род</item>
+       <item>Чейн</item>
+       <item>Фурлонг</item>
+       <item>Миля</item>
+       <item>Лига (Лье)</item>
+    </string-array>
+
+
+    <string-array name="area">
+       <item>Квадратный нанометр</item>
+       <item>Квадратный миллиметр</item>
+       <item>Квадратный сантиметр</item>
+       <item>Квадратный дециметр</item>
+       <item>Квадратный метр</item>
+       <item>Квадратный километр</item>
+       <item>Ар (сотка)</item>
+       <item>Гектар</item>
+       <item>Акр</item>
+    </string-array>
+
+
+    <string-array name="volume">
+       <item><i>Метрические</i></item>
+       <item><![CDATA[Микролитр\n(мм<sup><small>3</small></sup>)]]></item>
+       <item><![CDATA[Миллилитр\n(см<sup><small>3</small></sup>)]]></item>
+       <item><![CDATA[Литр\n(дм<sup><small>3</small></sup>)]]></item>
+       <item>Кубический метр</item>
+       <item>Кубический километр</item>
+
+       <item>Британские / американские</item>
+       <item>Пинта</item>
+       <item>Кварта</item>
+       <item>Галлон</item>
+       <item>Баррель</item>
+
+       <item>Кулинарные</item>
+       <item>Чайная ложка</item>
+       <item>Столовая ложка</item>
+       <item>Стакан</item>
+    </string-array>
+
+
+    <string-array name="speed">
+       <item>Метрические</item>
+        <item><![CDATA[Километры в час<b> (км/ч)</b>]]></item>
+        <item><![CDATA[Метры в секунду<b> (м/с)</b>]]></item>
+        <item>Километры в секунду</item>
+        <item>Метры в час</item>
+        <item>Километры в минуту</item>
+        <item>Метры в минуту</item>
+
+       <item>Морские</item>
+        <item>Морская миля в час (узел)</item>
+
+       <item>Физические</item>
+        <item>Скорость звука в воздухе</item>
+        <item>Скорость света в вакууме</item>
+    </string-array>
+
+
+    <string-array name="weight">
+       <item>Метрические</item>
+       <item>Миллиграмм</item>
+       <item>Грамм</item>
+       <item>Килограмм</item>
+       <item>Центнер</item>
+       <item>Тонна</item>
+       <item>Карат</item>
+
+       <item>Британские / американские</item>
+       <item>Гран</item>
+       <item>Драхма</item>
+       <item>Унция</item>
+       <item>Фунт</item>
+       <item>Стоун</item>
+    </string-array>
+
+    <string-array name="energy">
+       <item>Джоуль</item>
+       <item>Килоджоуль</item>
+       <item>Мегаджоуль</item>
+       <item>Калория</item>
+       <item>Килокалория</item>
+       <item>Ватт секунда (Вт*с)</item>
+       <item>Киловатт час (кВт*ч)</item>
+    </string-array>
+
+
+    <string-array name="time">
+       <item>Наносекунда</item>
+       <item>Миллисекунда</item>
+       <item>Секунда</item>
+       <item>Минута</item>
+       <item>Час</item>
+       <item>Сутки</item>
+       <item>Неделя</item>
+       <item>Месяц</item>
+       <item>Год</item>
+       <item>Високосный год</item>
+       <item>Век</item>
+    </string-array>
+
+
+    <string-array name="data">
+       <item>Хранение</item>
+       <item>Байт</item>
+       <item>Килобайт</item>
+       <item>Мегабайт</item>
+       <item>Гигабайт</item>
+       <item>Терабайт</item>
+       <item>Петабайт</item>
+       <item>Эксабайт</item>
+
+       <item>Передача</item>
+       <item>Бит</item>
+       <item>Килобит</item>
+       <item>Мегабит</item>
+       <item>Гигабит</item>
+       <item>Терабит</item>
+       <item>Петабит</item>
+       <item>Эксабит</item>
+    </string-array>
+
+
+    <string-array name="temp">
+       <item>Градус Цельсия(°C)</item>
+       <item>Градус Фаренгейта(°F)</item>
+       <item>Кельвин(K)</item>
+       <item>Градус Ранкина(°Ra)</item>
+       <item>Градус Реомюра(°R)</item>
+    </string-array>
+
+
+</resources>

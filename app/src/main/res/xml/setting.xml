@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <com.convert.cv.SpinnerPreference
+        android:key="pref_digits"
+        android:title="@string/pref_name1"
+        android:defaultValue="3"
+        app:entries="@array/digits"
+        app:entryValues="@array/digits"
+    />
+
+    <com.convert.cv.SpinnerPreference
+        android:key="pref_divider"
+        android:title="@string/pref_name2"
+        android:defaultValue="."
+        app:entries="@array/divider"
+        app:entryValues="@array/divider"
+    />
+
+</android.support.v7.preference.PreferenceScreen>

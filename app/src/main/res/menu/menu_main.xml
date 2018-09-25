@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.convert.cv.MainActivity">
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/menu_set"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/info"
+        android:title="@string/menu_info"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mark"
+        android:title="@string/menu_mark"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="length">
+        <item>Metric</item>
+        <item>Nanometer</item>
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+
+        <item>Astronomical</item>
+        <item>Astronomical unit</item>
+        <item>Light year</item>
+        <item>Parsec</item>
+
+        <item>British / American</item>
+        <item>Inch</item>
+        <item>hand</item>
+        <item>Link</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Rod</item>
+        <item>Chain</item>
+        <item>Furlong</item>
+        <item>Mile</item>
+        <item>League</item>
+    </string-array>
+
+
+    <string-array name="area">
+        <item>Square nanometer</item>
+        <item>Square millimeter</item>
+        <item>Square centimeter</item>
+        <item>Square decimeter</item>
+        <item>Square meter</item>
+        <item>Square kilometer</item>
+        <item>Are</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+
+
+    <string-array name="volume">
+        <item>Metric</item>
+         <item><![CDATA[Microliter\n(mm<sup><small>3</small></sup>)]]></item>
+         <item><![CDATA[Milliliter\n(cm<sup><small>3</small></sup>)]]></item>
+         <item><![CDATA[Liter\n(dm<sup><small>3</small></sup>)]]></item>
+         <item>Cubic meter</item>
+         <item>Cubic kilometer</item>
+
+        <item>British / American</item>
+         <item>Pint</item>
+         <item>Quart</item>
+         <item>Gallon</item>
+         <item>Barrel</item>
+
+        <item>Cooking</item>
+         <item>Teaspoon</item>
+         <item>Tablespoon</item>
+         <item>Cup</item>
+    </string-array>
+
+
+    <string-array name="speed">
+        <item>Metric</item>
+        <item><![CDATA[Kilometer per hour<b> (km/h)</b>]]></item>
+        <item><![CDATA[Meter per second<b> (m/s)</b>]]></item>
+        <item>Kilometer per second</item>
+        <item>Meter per hour</item>
+        <item>Kilometer per minute</item>
+        <item>Meter per minute</item>
+
+        <item>Nautical</item>
+        <item>Sea mile per hour (knot)</item>
+
+        <item>Speed constants</item>
+        <item>Speed of sound in air</item>
+        <item>Speed of light in vacuum</item>
+    </string-array>
+
+
+    <string-array name="weight">
+        <item>Metric</item>
+        <item>Milligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Quintal</item>
+        <item>Tonne</item>
+        <item>Carat</item>
+
+        <item>British / American</item>
+        <item>Grain</item>
+        <item>Dram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+        <item>Stone</item>
+    </string-array>
+
+    <string-array name="energy">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Megajoule</item>
+        <item>Calorie</item>
+        <item>Kilocalorie</item>
+        <item>Watt second(W*s)</item>
+        <item>Kilowatt hour(kW*h)</item>
+    </string-array>
+
+
+    <string-array name="time">
+        <item>Nanosecond</item>
+        <item>Millisecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Leap year</item>
+        <item>Century</item>
+    </string-array>
+
+
+    <string-array name="data">
+        <item>Storage</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+        <item>Petabyte</item>
+        <item>Exbibyte</item>
+
+        <item>Transmission</item>
+        <item>Bit</item>
+        <item>Kilobit</item>
+        <item>Megabit</item>
+        <item>Gigabit</item>
+        <item>Terabit</item>
+        <item>Petabit</item>
+        <item>Exabit</item>
+    </string-array>
+
+
+
+    <string-array name="temp">
+        <item>degrees Celsius(°C)</item>
+        <item>degrees Fahrenheit(°F)</item>
+        <item>Kelvin(K)</item>
+        <item>degrees Rankine(°R)</item>
+        <item>degrees Reaumur(°Re)</item>
+    </string-array>
+
+</resources>

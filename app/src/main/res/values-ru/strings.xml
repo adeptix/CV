@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Мой Конвертер</string>
+
+    <string name="poka">(пока что...)</string>
+    <string name="problem">Сообщить о проблеме</string>
+    <string name="studio">R A D Studio</string>
+
+    <string name="menu_set">Настройки</string>
+    <string name="menu_info">Информация</string>
+    <string name="menu_mark">Оценить приложение</string>
+
+    <string name="pref_name1">Количество десятичных знаков</string>
+    <string name="pref_name2">Десятичный разделитель</string>
+
+
+    <string-array name="title">
+        <item>Расстояние</item>
+        <item>Площадь</item>
+        <item>Объем</item>
+        <item>Скорость</item>
+        <item>Масса</item>
+        <item>Энергия</item>
+        <item>Время</item>
+        <item>Данные</item>
+        <item>Температура</item>
+    </string-array>
+
+
+</resources>
